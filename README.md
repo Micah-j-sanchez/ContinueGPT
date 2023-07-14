@@ -1,2 +1,2 @@
 # ContinueGPT
-Get rid of that pesky continue generating button and automatically press it on Chat.openai.com
+**All info at [ContinueGPT Chrome webstore](https://chrome.google.com/webstore/detail/continuegpt/dniiomcjdfpecldmgkcgeapnfdefjnlb)**
